@@ -1,4 +1,6 @@
-﻿namespace BookStore.Interfaces
+﻿using BookStore.Enums;
+
+namespace BookStore.Interfaces
 {
     public interface IBook
     {

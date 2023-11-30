@@ -1,4 +1,5 @@
-﻿using BookStore.Interfaces;
+﻿using BookStore.Enums;
+using BookStore.Interfaces;
 using BookStore.Models;
 using System;
 
